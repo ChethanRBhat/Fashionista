@@ -1,0 +1,29 @@
+.orders {
+    padding: 20px 80px;
+
+}
+
+.orders > h1 {
+    margin: 100px 0;
+    color:blue;
+}
+
+
+.orders > h2 {
+    
+    color:red;
+}
+
+.orders > h4 {
+    border: 1px solid;
+    color:blueviolet;
+    background: orange;
+    border-radius: 10px;
+    width: 30%;
+    height: 30px;
+    border: 1px solid;
+    margin-top: 100px;
+    
+    
+
+}
